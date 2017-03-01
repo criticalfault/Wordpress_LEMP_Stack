@@ -4,9 +4,9 @@
 Table of Contents
 <hr>
 1. [Adding a Favicon](#Adding Favicon's to Wordress)<br>
-2. [Second Task]()<br>
-3. [Third Task]()<br>
-4. [Fourth Task]()
+2. [Second Task](#Second-Task)<br>
+3. [Third Task](#Third-Task)<br>
+4. [Fourth Task](#Fourth-Task)
 
 
 
