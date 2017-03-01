@@ -1,9 +1,29 @@
-#Deployment 
+#Deployment Practices
+<hr>
+
+Table of Contents
+<hr>
+1. [Adding a Favicon](#Adding Favicon's to Wordress)<br>
+2. [Second Task]()<br>
+3. [Third Task]()<br>
+4. [Fourth Task]()
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ##Adding Favicon's to Wordress
 
-1) Download a file you want to make your Favicon. File format should be ICO, however wordpress will accept any image if it is the correct pixel size. Navigate on your local machine to the location of that file on your local machine's terminal. The file should be at maxium, 152x152 pixel's in size. 
+1) Download a file you want to make your Favicon. File format should be ICO, however wordpress will accept any image if it is the correct pixel size. Navigate on your local machine to the location of that file on your local machine's terminal. The file should be at maxium, 151x151 pixel's in size. 
 
 
 2) Now we are going to be transfering the file using SCP from our local machine to the remote server. We do this with first specifying the file, then the user@hostname, followed by a : and the EXACT file path location the file will end up, ending with the file name itself. It must be placed inside the upload's directory we create inside the 'root document' folder that wordpress is being served from.
@@ -42,5 +62,5 @@ Enter the "Administrator" account's password. This will bring you back to the fr
 ![Imgur](http://i.imgur.com/QAf1BK4.png)
 
 
-
+##Second Task
 
