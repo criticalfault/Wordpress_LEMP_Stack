@@ -1,30 +1,19 @@
 #Deployment Practices
 <hr>
+##Installation Process
+Find a Link here for installation process. [Link](https://github.com/criticalfault/Wordpress_LEMP_Stack/blob/master/setup.md)
 
-Table of Contents
+<br>
+
+##Table of Contents
 <hr>
-1. [Adding a Favicon](#Adding Favicon's to Wordress)<br>
-2. [Second Task](#Second-Task)<br>
-3. [Third Task](#Third-Task)<br>
-4. [Fourth Task](#Fourth-Task)
+1. [Adding a Favicon](#Adding-Favicon's-to-Wordress)<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 ##Adding Favicon's to Wordress
 
 1) Download a file you want to make your Favicon. File format should be ICO, however wordpress will accept any image if it is the correct pixel size. Navigate on your local machine to the location of that file on your local machine's terminal. The file should be at maxium, 151x151 pixel's in size. 
-
 
 2) Now we are going to be transfering the file using SCP from our local machine to the remote server. We do this with first specifying the file, then the user@hostname, followed by a : and the EXACT file path location the file will end up, ending with the file name itself. It must be placed inside the upload's directory we create inside the 'root document' folder that wordpress is being served from.
 
@@ -60,7 +49,4 @@ Enter the "Administrator" account's password. This will bring you back to the fr
 9) Finally click select and then when your prompted with the new page. Click Save & Publish. This has now changed your favicon!
 
 ![Imgur](http://i.imgur.com/QAf1BK4.png)
-
-
-##Second Task
 
