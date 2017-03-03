@@ -5,7 +5,7 @@ Your title: Dean Petty's Portfolio
                             
 Site: Dean.petty@gmail.com
                             
-Location: City, Country.
+Location: winter park, Country.
  
                             
 /* SITE */
