@@ -1,15 +1,21 @@
-###############
-Head Developer:
-Dean Petty!
-##############
+/* TEAM */
 
+                            
+Your title: Dean Petty's Portfolio
 
+                            
+Site: Dean.petty@gmail.com
+                            
+Location: City, Country.
+ 
+                            
+/* SITE */
 
+                            
+Last update: 2017/03/ 
 
+                            
+Standards: HTML5, CSS3
 
-
-
-
-##############
-Last Updated: Today!
-##############
+                            
+Components: Wordpress, jQuery
