@@ -8,12 +8,9 @@ Location: winter park, Country.
  
                             
 /* SITE */
-
                             
 Last update: 2017/03/ 
-
                             
 Standards: HTML5, CSS3
-
                             
 Components: Wordpress, jQuery
