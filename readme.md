@@ -1,17 +1,17 @@
-#Deployment Practices
-<hr>
-##Installation Process
+# Deployment Practices
+
+## Installation Process
 Find a Link here for installation process. [Link](https://github.com/criticalfault/Wordpress_LEMP_Stack/blob/master/setup.md)
 
 <br>
 
-##Table of Contents
-<hr>
+## Table of Contents
+
 1. [Adding a Favicon](#Adding-Favicon's-to-Wordress)<br>
 
 <br>
 
-##Adding Favicon's to Wordress
+## Adding Favicon's to Wordress
 
 1) Download a file you want to make your Favicon. File format should be ICO, however wordpress will accept any image if it is the correct pixel size. Navigate on your local machine to the location of that file on your local machine's terminal. The file should be at maximum, 151x151 pixel's in size. 
 
