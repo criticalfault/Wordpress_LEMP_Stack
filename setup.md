@@ -1,4 +1,4 @@
-#Wordpress on LEMP Installation Guide
+# Wordpress on LEMP Installation Guide
 
 1) Login into Digital Ocean Account in order to create a new Droplet.
 
